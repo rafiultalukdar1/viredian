@@ -10,33 +10,22 @@ large Screen - Others
     }
 
 
-
-
 }
-
 
 
 
 @media screen and (min-width: 1400px) and (max-width: 1599px) {
 
-    /* question page start */
-
     .question-item-left {
         width: 600px;
     }
-
     .question-item-right {
         width: calc(100% - 600px);
         padding-left: 120px;
         padding-right: 80px;
     }
 
-
 }
-
-
-
-
 
 
 
@@ -137,67 +126,43 @@ large Screen - Others
     .cg-right-content p {
         font-size: 19px;
     }
-
-    /* question page start */
-
     .question-item-left {
         width: 500px;
     }
-
     .question-item-right {
         width: calc(100% - 500px);
         padding-left: 60px;
         padding-right: 60px;
     }
-
-    /* portfolio page start */
-
     .project-item-inner-third {
         width: 620px;
         margin-right: 0;
     }
-
     .project-item-inner-fourth {
         padding-left: 70px;
     }
-
-    /* pricing page start */
-
     .pricing-content {
         grid-column-gap: 60px;
     }
-
-    /* contact page start */
-
     .hero-image {
         left: 4%;
     }
-
-    /* cost area start */
-
     .cost-area .container {
         max-width: 1200px;
     }
-
     .cost-item {
         padding: 7px 50px 0;
     }
-
     .cost-item-left {
         width: calc(100% - 500px);
         padding-right: 40px;
     }
-
     .cost-item-right {
         width: 500px;
     }
-
-    /* blog page start */
-
     .blog-item-left {
         padding-right: 60px;
     }
-
 
 
 }
@@ -361,8 +326,6 @@ Medium Screen - Others
     .support-col {
         padding-top: 20px;
     }
-
-
     .sortcut-card-box .card-content h3 {
         font-size: 22px;
     }
@@ -389,113 +352,79 @@ Medium Screen - Others
         padding-left: 0px;
         padding-right: 0px;
     }
-
-    /* question page start */
-
     .question-item-left {
         width: 400px;
     }
-
     .question-item-right {
         width: calc(100% - 400px);
         padding-top: 30px;
         padding-left: 40px;
         padding-right: 30px;
     }
-
     .question-item-right-inner {
         bottom: -20px;
     }
-
-    /* portfolio page start */
-
     .project-item-inner-third {
         width: 520px;
         margin-right: 0;
     }
-
     .project-item-inner-fourth {
         padding-left: 40px;
     }
-
-    /* pricing page start */
-
     .pricing-content {
         grid-column-gap: 30px;
     }
-
     .pricing-item-upper ul li:nth-of-type(2) {
         margin: 0 40px;
     }
-
     .pricing-item-buttom {
         padding: 67px 30px 34px;
     }
-
-    /* contact page start */
-
     .hero-image {
         left: 4%;
         bottom: 0px;
     }
-
     .hero-image img {
         max-width: 300px;
     }
-
     .contact-area {
         padding-top: 150px;
     }
-
     .contact-item-left {
         width: 400px;
         padding: 50px 30px;
     }
-
     .contact-item-right {
         width: calc(100% - 400px);
         padding: 50px 40px;
     }
-
-    /* cost area start */
-
     .cost-area {
         padding: 150px 0 100px;
     }
-
     .cost-area .container {
         max-width: 960px;
     }
-
     .cost-item {
         padding: 7px 30px 0;
     }
-
     .cost-item-left {
         width: calc(100% - 400px);
         padding-right: 30px;
     }
-
     .cost-item-left h2 {
         font-size: 38px;
         margin-bottom: 40px;
     }
-
     .cost-item-right {
         width: 400px;
     }
-
-    /* blog page start */
-
     .blog-item-left {
         width: calc(100% - 350px);
         padding-right: 30px;
     }
-
     .blog-item-right {
         width: 350px;
     }
-
     .blog-item-right-inner,
     .blog-item-right-inner-second,
     .blog-item-right-inner-fourth {
@@ -695,14 +624,12 @@ Small Screen - Tablate
     .support-col {
         padding-top: 20px;
     }
-
     .ai-blockchain-wrap::after {
         left: -130px;
         bottom: 100px;
         top: initial;
         transform: translateY(0%) scale(0.8);
     }
-    
     .sortcut-card-box .card-content h3 {
         font-size: 24px;
     }
@@ -747,161 +674,113 @@ Small Screen - Tablate
     .counter-wrap .single-counter br {
         display: none;
     }
-
-    /* sevice page start */
-
     .hero-service-area {
         padding: 100px 0 80px;
     }
-
     .hero-service-item h2 {
         font-size: 42px;
     }
-
-    /* optimization page start */
-
     .optimization-area {
         padding-top: 100px;
     }
-
     .optimization-item-inner {
         padding-top: 70px;
     }
-
-    /* question page start */
-
     .question-area {
         padding: 100px 0;
     }
-
     .question-item-left {
         width: 300px;
     }
-
     .question-item-right {
         width: calc(100% - 300px);
         padding-top: 30px;
         padding-left: 30px;
         padding-right: 0;
     }
-
     .accordion-title {
         padding: 15px 16px;
     }
-
     .accordion-body {
         padding: 0 16px 30px;
     }
-
     .question-item-right-inner {
         bottom: -0px;
     }
-
-    /* portfolio page start */
-
     .project-item-inner-third {
         width: 100%;
         margin-right: 0;
     }
-
     .project-item-inner-fourth {
         padding-left: 0;
         padding-right: 60px;
     }
-
     .project-item-inner-eighth {
         width: 320px;
     }
-
     .project-item-inner-nineth {
         width: calc(100% - 320px);
         padding-left: 30px;
     }
-
-    /* pricing page start */
-
     .pricing-area {
         padding: 100px 0 70px;
     }
-
     .pricing-content {
         grid-template-columns: repeat(2, 1fr);
         grid-column-gap: 40px;
     }
-
-    /* contact page start */
-
     .hero-image {
         left: 4%;
         bottom: 0px;
     }
-
     .hero-image img {
         max-width: 200px;
     }
-
     .contact-area {
         padding-top: 100px;
     }
-
     .contact-item-left {
         width: 100%;
     }
-
     .contact-item-right {
         width: 100%;
         border-top: 1px solid rgba(0, 0, 0, 0.10);
         border-left: none;
     }
-
-    /* cost area start */
-
     .cost-area {
         padding: 100px 0;
     }
-
     .cost-area .container {
         max-width: 720px;
     }
-
     .cost-item {
         padding: 10px 20px 0;
     }
-
     .cost-item-left {
         width: calc(100% - 300px);
         padding-right: 20px;
     }
-
     .cost-item-left h2 {
         font-size: 28px;
         margin-bottom: 30px;
     }
-
     .cost-item-left ul li a {
         width: 145px;
         height: 50px;
         font-size: 14px;
     }
-
     .cost-item-left ul li:nth-of-type(2) a {
         width: 175px;
     }
-
     .cost-item-right {
         width: 300px;
     }
-
-    /* blog page start */
-
     .blog-item-left {
         width: 100%;
         padding-right: 0px;
         margin-bottom: 40px;
     }
     
-   
-
 
 }
 
@@ -959,7 +838,6 @@ Xtra Small Screen - Small Mobile
     .header-left-btns {
         padding-top: 30px;
     }
-
     .single-boosting-card h3 {
         font-size: 26px;
         padding-bottom: 15px;
@@ -1168,7 +1046,6 @@ Xtra Small Screen - Small Mobile
         width: 33px;
         margin: 7px 0;
     }
-
     .bb-heading span {
         font-size: 21px;
         padding-bottom: 20px;
@@ -1199,7 +1076,6 @@ Xtra Small Screen - Small Mobile
     .everything-heres {
         padding-bottom: 50px;
     }
-
     .cg-right-content {
         padding-left: 0px;
         padding-top: 18px;
@@ -1240,309 +1116,227 @@ Xtra Small Screen - Small Mobile
     .counter-wrap .single-counter br {
         display: none;
     }
-
-    /* sevice page start */
-
     .hero-service-area {
         padding: 70px 0;
     }
-
     .hero-service-item h2 {
         font-size: 32px;
     }
-
     .hero-service-item h2 br {
         display: none;
     }
-
-    /* optimization page start */
-
     .optimization-area {
         padding-top: 70px;
     }
-
     .optimization-item img {
         margin-bottom: 25px;
     }
-
     .optimization-item h2 {
         font-size: 28px;
     }
-
     .optimization-item p {
         margin-bottom: 20px;
     }
-
     .optimization-item-inner {
         padding-top: 40px;
     }
-
     .optimization-item-inner p {
         margin-bottom: 30px;
     }
-
     .optimization-item-inner-second {
         grid-column-gap: 20px;
     }
-
-    /* question page start */
-
     .question-area {
         padding: 70px 0;
     }
-
     .question-item-left {
         width: 100%;
     }
-
     .question-item-right {
         width: 100%;
         padding-top: 30px;
         padding-left: 0;
         padding-right: 0;
     }
-
     .accordion-title {
         padding: 15px 16px;
     }
-
     .accordion-body {
         padding: 0 16px 30px;
     }
-
     .question-item-right-inner {
         bottom: -0px;
     }
-
-    /* portfolio page start */
-
     .project-area {
         padding: 70px 0;
     }
-
     .project-item-inner ul {
         padding: 0px 0 10px;
     }
-
     .project-item-inner-second {
         display: flex;
         margin-bottom: 0px;
     }
-
     .project-item-inner-third {
         margin-right: 0;
         width: 100%;
     }
-
     .project-item h2 {
         font-size: 28px;
     }
-
     .project-item-inner-fourth {
         padding-left: 0;
         padding-top: 0;
         margin-bottom: 30px;
         width: 50%;
     }
-
     .project-item-inner-fifth {
         grid-template-columns: repeat(2, 1fr);
         grid-column-gap: 20px;
     }
-
     .project-item-inner-sixth {
         padding: 0px 0;
     }
-
     .project-item-inner-sixth p {
         margin-bottom: 30px;
     }
-
     .project-item-inner-seventh {
         display: flex;
         flex-wrap: wrap;
         align-items: center;
     }
-
     .project-item-inner-eighth {
         width: 100%;
     }
-
     .project-item-inner-nineth {
         width: 100%;
         padding-left: 0px;
     }
-
     .project-item-inner-nineth p {
         max-width: 550px;
     }
-
     .project-item-inner-nineth ul {
         padding-top: 20px;
     }
-
     .project-item-inner-ten {
         padding-top: 40px;
     }
-
-    /* pricing page start */
-
     .pricing-area {
         padding: 70px 0 40px;
     }
-
     .pricing-content {
         grid-template-columns: repeat(1, 1fr);
     }
-
     .pricing-item-upper {
         padding: 80px 16px 28px;
         min-height: 300px;
     }
-
     .pricing-item-upper h2 {
         font-size: 32px;
     }
-
     .pricing-item-upper ul li:nth-of-type(2) {
         margin: 0 50px;
     }
-
     .pricing-item-buttom {
         padding: 40px;
     }
-
     .pricing-item-buttom ul {
         margin-bottom: 40px;
     }
-
-    /* contact page start */
-
     .hero-image {
         display: none;
     }
-
     .contact-area {
         padding-top: 70px;
     }
-
     .contact-item-left {
         width: 100%;
         padding: 40px 20px;
     }
-
     .contact-item h2 {
         font-size: 28px;
         margin-bottom: 30px;
     }
-
     .contact-item-right {
         width: 100%;
         padding: 40px 20px;
         border-top: 1px solid rgba(0, 0, 0, 0.10);
         border-left: none;
     }
-
     .contact-item-right-inner {
         grid-template-columns: repeat(1, 1fr);
     }
-
-    /* cost area start */
-
     .cost-area {
         padding: 70px 0;
     }
-
     .cost-area .container {
         max-width: 540px;
     }
-
     .cost-item {
         padding: 40px 16px 0;
     }
-
     .cost-item-left {
         width: 100%;
         padding-right: 0px;
     }
-
     .cost-item-left h2 {
         font-size: 28px;
         margin-bottom: 30px;
     }
-
     .cost-item-left ul {
         justify-content: center;
         flex-direction: column;
     }
-
     .cost-item-left ul li:nth-of-type(2) a {
         margin: 20px 0;
     }
-
     .cost-item-right {
         width: 100%;
         padding-top: 30px;
     }
-
-    /* blog page start */
-
     .blog-area {
         padding: 70px 0;
     }
-
     .blog-item-left {
         width: 100%;
         padding-right: 0px;
     }
-
     .blog-item-left-inner-second {
         padding-top: 60px;
     }
-
     .blog-item-left-inner-third {
         flex-wrap: wrap;
         padding-top: 0px;
         margin-bottom: 20px;
     }
-
     .blog-item-comment-inner {
         padding-right: 0px;
     }
-
     .blog-item-reply-button {
         right: 0;
         top: auto;
         bottom: 20px;
     }
-
     .blog-item-comment-inner-second {
         padding-top: 30px;
         padding-left: 40px;
     }
-
     .blog-item-left-inner-sixth {
         padding-top: 40px;
     }
-
     .blog-item-right {
         width: 100%;
         padding-top: 40px;
     }
-
     .blog-item-right-inner {
         padding: 30px 16px;
     }
-
     .blog-item-right-inner-second {
         padding: 30px 16px 20px;
     }
-
     .blog-item-right-inner-fourth {
         padding: 30px 16px 16px;
     }
-
-
 
 
 

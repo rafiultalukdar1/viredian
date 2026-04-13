@@ -560,7 +560,6 @@ HEADER CSS HERE
 }
 
 /* business-boosting */
-
 .business-boosting {
     padding-top: 80px;
     padding-bottom: 90px;
@@ -788,24 +787,23 @@ HEADER CSS HERE
     color: #0000009c;
     text-transform: uppercase;
 }
-  .owl-dots {
+.owl-dots {
     text-align: center;
     padding-top: 50px;
-  }
-  .owl-dots button.owl-dot {
+}
+.owl-dots button.owl-dot {
     width: 12px;
     height: 12px;
     border-radius: 50%;
     display: inline-block;
     background: #e0d9ff;
     margin: 0 4px;
-  }
-  .owl-dots button.owl-dot.active {
+}
+.owl-dots button.owl-dot.active {
     background-color: #6640ff;
-  }
+}
 
-  /* dashboard-previewer-area  */
-
+/* dashboard-previewer-area  */
 .whole-dashboard-area {
     position: relative;
     padding-top: 40px;
@@ -1008,7 +1006,6 @@ HEADER CSS HERE
 }
 
 /* footer-area-wrap  */
-
 .footer-area-wrap {
     background-color: #0632cd; 
     padding-top: 240px;
@@ -1190,7 +1187,7 @@ HEADER CSS HERE
     font-weight: 500;
 }
 
-/* ======================== updated code here ========================*/
+/* ======= updated code here =======*/
 .bb-heading span {
     font-size: 32px;
     font-weight: 700;
@@ -1716,8 +1713,7 @@ HEADER CSS HERE
     background-color: #103acd;
 }
 
-/* pricing page start */
-
+/*======= pricing page start =======*/
 .pricing-area {
     padding: 120px 0 90px;
 }
